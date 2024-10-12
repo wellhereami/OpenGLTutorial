@@ -1,3 +1,5 @@
-﻿  main.cpp
-C:\Users\abbey\Desktop\Projects\VS\OpenGLTutorial\OpenGLTutorial\main.cpp(87,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+﻿  HelloShader.cpp
+C:\Users\abbey\Desktop\Projects\VS\OpenGLTutorial\OpenGLTutorial\HelloShader.cpp(87,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
   OpenGLTutorial.vcxproj -> C:\Users\abbey\Desktop\Projects\VS\OpenGLTutorial\x64\Debug\OpenGLTutorial.exe
